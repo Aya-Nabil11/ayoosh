@@ -7,12 +7,12 @@ public class zzzzzzzzzzzzzzzz : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-    //   int counter=10;
-    //   while(True){
-    //     int no=Random.range(1,21);
-    //     if( no ==5 )  continue;
-    //     else if( no ==15) break;
-    //   }
+      int counter=10;
+      while(True){
+        int no=Random.range(1,21);
+        if( no ==5 )  continue;
+        else if( no ==15) break;
+      }
      
 
 
