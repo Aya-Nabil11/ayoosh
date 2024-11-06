@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player 
 {
    public string playerName="";
-    public int health;
+    public int health=100;
     public static int playerCount=0;
    public void InitializePlayer(string name, int initialHealth){
     playerName=name;
