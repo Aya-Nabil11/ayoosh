@@ -11,7 +11,7 @@ public class NewBehaviourScript : MonoBehaviour
         Player player2=new Player();
         player1.InitializePlayer("Aya",100);
         player1.InitializePlayer("SOssy",100);
-        player1.Heal(40);
+        player2.Heal(40);
         player1.Heal(true);
         Player.ShowPlayerCount();
         Debug.Log(player1.health);
